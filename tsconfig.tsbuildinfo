@@ -734,7 +734,7 @@
         "signature": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c"
       },
       "/users/tkmadkv/ashutosh/poc/sampleextension/src/index.ts": {
-        "version": "d60f543a59fbbed2e3987a60f882b37fb6837cbeb400226dd1f77509afbcb851",
+        "version": "30010cc46a8cf3d2a7de1a058e518a117db6dc22e4c1f4cc01997d511f4a7388",
         "signature": "10be967fdfbf77b5df209a167c591e1fe7a043f0a58ad68eab529bb96e03b905"
       }
     },
@@ -1573,7 +1573,9 @@
         "/users/tkmadkv/ashutosh/poc/sampleextension/node_modules/@jupyterlab/application/lib/tokens.d.ts"
       ],
       "/users/tkmadkv/ashutosh/poc/sampleextension/src/index.ts": [
-        "/users/tkmadkv/ashutosh/poc/sampleextension/node_modules/@jupyterlab/application/lib/index.d.ts"
+        "/users/tkmadkv/ashutosh/poc/sampleextension/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/tkmadkv/ashutosh/poc/sampleextension/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/tkmadkv/ashutosh/poc/sampleextension/node_modules/@phosphor/widgets/lib/index.d.ts"
       ]
     },
     "exportedModulesMap": {
